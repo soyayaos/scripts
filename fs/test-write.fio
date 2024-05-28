@@ -1,0 +1,5 @@
+[sequential-write]
+filename=./temp.file
+bs=1M
+size=1G
+rw=write
