@@ -9,6 +9,7 @@ sudo apt -y install \
     libplist-utils \
     qimgv \
     smplayer \
+    tilix \
     xfce4-power-manager \
     xfce4-terminal \
     xfce4-weather-plugin \
