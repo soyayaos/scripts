@@ -4,6 +4,7 @@ sudo apt -y install \
     audacity \
     fbreader \
     flameshot \
+    gitk \
     iw \
     keepassxc \
     libplist-utils \
