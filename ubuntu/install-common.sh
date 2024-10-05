@@ -20,6 +20,7 @@ sudo apt -y install \
     protobuf-compiler \
     secure-delete \
     subversion \
+    tree \
     unar \
     unrar \
     whois
