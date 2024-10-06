@@ -23,7 +23,8 @@ sudo apt -y install \
     tree \
     unar \
     unrar \
-    whois
+    whois \
+    wrk
 
 #
 # tuning: apport
