@@ -9,6 +9,7 @@ sudo apt -y install \
     keepassxc \
     libplist-utils \
     qimgv \
+    simplescreenrecorder \
     smplayer \
     tilix \
     xfce4-power-manager \
