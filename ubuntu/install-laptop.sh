@@ -12,6 +12,7 @@ sudo apt -y install \
     simplescreenrecorder \
     smplayer \
     tilix \
+    vlc \
     xfce4-power-manager \
     xfce4-terminal \
     xfce4-weather-plugin \
