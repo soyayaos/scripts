@@ -19,6 +19,7 @@ sudo apt -y install \
     postgresql-client \
     protobuf-compiler \
     secure-delete \
+    stress \
     subversion \
     tree \
     unar \
